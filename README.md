@@ -30,7 +30,7 @@ Step 6: Close the terminal.
 
 
 
-FOR PART 2:
+# FOR PART 2:
 
 This is a file that answers the part2 of the VIVA Finance Coding challenge about creating a database.
 
